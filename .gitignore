@@ -1,0 +1,5 @@
+# Ignore all temporary and hidden files 
+.*
+
+# Por si las dudas de los binarios del entorno virtual
+*/envVirtual
