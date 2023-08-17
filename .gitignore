@@ -1,5 +1,9 @@
 # Ignore all temporary and hidden files 
 .*
 
+# Ignore the pycache
+__pycache__
+
 # Por si las dudas de los binarios del entorno virtual
 */envVirtual
+
